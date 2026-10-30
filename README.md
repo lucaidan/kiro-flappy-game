@@ -2,7 +2,7 @@
 
 Un Flappy Bird en 2.5D à l'ambiance Halloween. Kiro, un petit fantôme, se faufile entre des stèles et des arbres morts dans un cimetière sous la lune. Les obstacles arrivent au rythme de la musique : à chaque mesure, un nouveau passage s'ouvre.
 
-![Flappy Kiro UI](img/example-ui.png)
+![Flappy Kiro UI](img/ui-screenshot.png)
 
 ## Fonctionnalités
 
